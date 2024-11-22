@@ -55,7 +55,7 @@ Instale o pacote do dashboard do Node-RED (se ainda não estiver instalado):
 Acesse a interface do Node-RED no navegador e vá em Menu > Manage palette > Install.
 Procure por "node-red-dashboard" e instale.
 
-Crie um grupo na parte de Dashboards do node-red, e coloque o mesmo fluxo do arquivo disponibilizado
+Importe o arquivlo "flows.json" para dentro do node-red
  
 ### Teste e Monitoramento
 Após carregar o código no ESP32, verifique o serial monitor para garantir que o ESP32 está conectado ao Wi-Fi e ao broker MQTT.
