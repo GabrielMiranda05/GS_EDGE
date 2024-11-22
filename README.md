@@ -1,5 +1,13 @@
 # Projeto IoT com ESP32, MQTT e Node-RED
 
+### ALUNOS
+
+Kheyla Thais RM558434
+
+Gabriel Miranda RM559102
+
+Vinicius Henrique RM556908
+
 ## Descrição
 
 O objetivo deste projeto é coletar dados de corrente e potência, com visualização em tempo real em dashboards utilizando o NODE-RED, e futuramente serem enviados para o nosso modelo preditivo em Python (repositorio do modelo: **colocar link do modelo preditivo em python**) Para ser utilizado em politicas publicas, a fim de coletar e prever qual bairro da cidade de São Paulo tera o maior gasto com energia eletrica, assim disponibilizando um melhor filtro no momento de enviar campanhas de concientização sobre economia de energia. 
