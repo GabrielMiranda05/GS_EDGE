@@ -56,6 +56,7 @@ Acesse a interface do Node-RED no navegador e vá em Menu > Manage palette > Ins
 Procure por "node-red-dashboard" e instale.
 
 Crie um grupo na parte de Dashboards do node-red, e coloque o mesmo fluxo a baixo
+<img src="image.png">
  
 ### Teste e Monitoramento
 Após carregar o código no ESP32, verifique o serial monitor para garantir que o ESP32 está conectado ao Wi-Fi e ao broker MQTT.
